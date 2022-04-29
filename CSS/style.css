@@ -6,5 +6,9 @@ body { font-size: 20px;
 }
 .color1 {color: #000080;
 }
-
+td {
+    padding: 10px;
+}
+body {
+    font-family: "Open Sans",sans-serif;
 }
